@@ -1,4 +1,4 @@
-## Hub for the paper "AltDev: Multi-Agent Software Development via Real-Time Alignment"
+## Hub for the paper RTADev:Intention Aligned Multi-Agent Framework for Software Development
 
 ### Tutorial
 
