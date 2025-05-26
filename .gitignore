@@ -1,0 +1,15 @@
+*.pyc
+.DS_Store
+.idea
+.vscode
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# env
+.env/
+.venv/
+env/
+venv/
